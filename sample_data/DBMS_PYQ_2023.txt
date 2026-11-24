@@ -1,0 +1,30 @@
+UNIVERSITY SEMESTER EXAMINATION - 2023
+COURSE: B.Tech Computer Science & Engineering
+SUBJECT: Database Management Systems (DBMS)
+ACADEMIC YEAR: 2023
+TIME: 3 Hours
+MAX MARKS: 100
+
+NOTE: This is synthetic test question paper data for automated testing and demonstration.
+
+Q1. Define weak entity and strong entity. Draw an ER diagram for a Banking System with customer, account, and loan relationship sets. [10 Marks]
+
+Q2. Explain Relational Algebra fundamental operations: Selection, Projection, Cartesian Product, Set Difference, and Union with relational schemas. [10 Marks]
+
+Q3. What is Database Normalization? Explain 1NF, 2NF, and 3NF. How does normalization eliminate insertion, deletion, and update anomalies? [10 Marks]
+
+Q4. Given a relation R(A, B, C, D, E) with functional dependencies {A -> BC, CD -> E, B -> D, E -> A}. Find the candidate keys of R and determine its highest normal form. [10 Marks]
+
+Q5. Write SQL queries for an Employee-Company database:
+a) Find employees who earn more than the average salary of their company using a correlated subquery. [5 Marks]
+b) Create a SQL trigger that automatically logs salary updates into an audit history table. [5 Marks]
+
+Q6. Discuss the concept of transaction states and explain how ACID properties ensure consistency during database failure. [10 Marks]
+
+Q7. What is Deadlock in database concurrency control? Explain the Wait-Die and Wound-Wait schemes for deadlock prevention. [10 Marks]
+
+Q8. Compare B-Tree and B+ Tree data structures for file indexing. Why are B+ Trees preferred for disk-based database systems? [10 Marks]
+
+Q9. Explain the Two-Phase Locking (2PL) protocol and discuss how conservative 2PL prevents deadlocks. [10 Marks]
+
+Q10. Explain the characteristics of NoSQL databases. Differentiate between Document-oriented and Key-Value databases. [5 Marks]

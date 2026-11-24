@@ -1,0 +1,30 @@
+UNIVERSITY SEMESTER EXAMINATION - 2022
+COURSE: B.Tech Computer Science & Engineering
+SUBJECT: Database Management Systems (DBMS)
+ACADEMIC YEAR: 2022
+TIME: 3 Hours
+MAX MARKS: 100
+
+NOTE: This is synthetic test question paper data for automated testing and demonstration.
+
+Q1. Explain the three-schema architecture of DBMS. Discuss the concept of data independence with examples. [10 Marks]
+
+Q2. What is an ER Diagram? Construct an Entity-Relationship (ER) diagram for a Hospital Management System showing entities, attributes, primary keys, and cardinality ratios. [10 Marks]
+
+Q3. What is a functional dependency? Define 1NF, 2NF, and 3NF with suitable relational table examples. [10 Marks]
+
+Q4. Differentiate between BCNF (Boyce-Codd Normal Form) and 3NF. Why is BCNF considered stricter than 3NF? [5 Marks]
+
+Q5. Write SQL queries for a university database:
+a) Find the names of students who have enrolled in more than 3 courses. [5 Marks]
+b) Retrieve the department names where the average faculty salary is greater than $75,000 using GROUP BY and HAVING. [5 Marks]
+
+Q6. Explain the ACID properties of a database transaction in detail with appropriate examples. [10 Marks]
+
+Q7. Explain conflict serializability and view serializability. How do you test whether a schedule is conflict serializable using a precedence graph? [10 Marks]
+
+Q8. Describe the Two-Phase Locking (2PL) protocol. How does strict 2PL avoid cascading aborts? [10 Marks]
+
+Q9. What is a B+ Tree? Explain how insertion and search operations are performed in a B+ Tree index with an illustration. [10 Marks]
+
+Q10. What is CAP theorem in modern distributed databases? Briefly explain the trade-offs between consistency and availability. [5 Marks]

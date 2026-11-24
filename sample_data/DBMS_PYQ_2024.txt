@@ -1,0 +1,30 @@
+UNIVERSITY SEMESTER EXAMINATION - 2024
+COURSE: B.Tech Computer Science & Engineering
+SUBJECT: Database Management Systems (DBMS)
+ACADEMIC YEAR: 2024
+TIME: 3 Hours
+MAX MARKS: 100
+
+NOTE: This is synthetic test question paper data for automated testing and demonstration.
+
+Q1. Explain the difference between physical data independence and logical data independence in DBMS architecture. [5 Marks]
+
+Q2. Design an ER diagram for an E-Commerce platform (User, Product, Order, Payment). Identify primary keys, foreign keys, and participation constraints. [10 Marks]
+
+Q3. What is normalization in relational databases? Discuss 2NF, 3NF, and BCNF with concrete counterexamples. [10 Marks]
+
+Q4. Test whether the decomposition of relation R(A, B, C, D) into R1(A, B) and R2(B, C, D) with F = {A -> B, B -> C, C -> D} is lossless join and dependency preserving. [10 Marks]
+
+Q5. Write complex SQL queries for an Airline Reservation System:
+a) Display flight numbers and passenger counts for flights with more than 150 bookings. [5 Marks]
+b) Create a materialized view that stores monthly revenue per route. [5 Marks]
+
+Q6. Explain ACID properties with a bank money transfer scenario ($500 transferred from Account A to Account B). [10 Marks]
+
+Q7. Explain the working of Timestamp-based concurrency control protocol. How does Thomas' Write Rule improve concurrency? [10 Marks]
+
+Q8. What is primary indexing, secondary indexing, and clustering index? Explain with diagrams. [10 Marks]
+
+Q9. What is a Deadlock? Explain how the Banker's algorithm or wait-for graph is used for deadlock detection and recovery. [10 Marks]
+
+Q10. Compare relational databases (RDBMS) with NoSQL databases (MongoDB, Cassandra) on scalability, schema flexibility, and CAP theorem guarantees. [10 Marks]
